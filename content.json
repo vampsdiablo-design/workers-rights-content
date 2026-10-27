@@ -1,0 +1,646 @@
+{
+  "version": 20261028,
+  "checked": "Last checked 27 October 2026. Sources: the Workers' Rights Act 2019 as at 7 September 2020 (uploaded copy, read page by page); the Equal Opportunities Act 2008 (uploaded copy, amended to 2017); the online consolidated copy as at 9 August 2025 (for the 16-week maternity leave); the 2019 original text; the ILO database entry for the Occupational Safety and Health Act 2005; and secondary guides on the Finance Act 2024.",
+  "topics": [
+    {
+      "id": "hours-normal",
+      "category": "Working hours",
+      "title": "Normal working week",
+      "summary": "A normal week is 45 hours, not counting meal and tea breaks.",
+      "points": [
+        "A normal week is 45 hours of work, excluding meal and tea breaks.",
+        "A 5-day week can be 9 hours a day on 5 days.",
+        "A 6-day week can be 8 hours on 5 days and 5 hours on the sixth day.",
+        "No worker may be required to work more than 12 hours in a day, except in special circumstances allowed by other laws.",
+        "Part-time workers and garde malade are treated differently under the Act."
+      ],
+      "law": "Workers' Rights Act 2019, s.20(1), s.20(3)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "written-statement",
+      "category": "Contracts",
+      "title": "Written statement of your job",
+      "summary": "If you work for more than one month, your employer must give you a written statement of your terms.",
+      "points": [
+        "Anyone engaged for more than one month is entitled to a written statement of particulars, in the form in the First Schedule (s.11).",
+        "The statement must be given within 14 days of the end of the first calendar month of work (s.11).",
+        "It must be in French or Creole (s.11).",
+        "A copy must be sent to the supervising officer within 30 days (s.11)."
+      ],
+      "law": "Workers' Rights Act 2019, s.11 (2020 text)",
+      "status": "VERIFIED",
+      "note": "The First Schedule form was not read."
+    },
+    {
+      "id": "fixed-term",
+      "category": "Contracts",
+      "title": "Fixed-term contracts",
+      "summary": "A fixed-term contract is allowed only for certain temporary needs, and you must not get worse terms than a permanent worker doing the same job.",
+      "points": [
+        "A fixed-term contract is allowed only for temporary needs, such as a specific temporary task, seasonal or short-term work, replacing a worker on approved leave, training, or a government or statutory scheme with a set duration (s.13(1)).",
+        "A worker in a permanent position (other than a migrant worker) cannot be put on a fixed-term contract for the business's fixed, recurring and permanent needs (s.13(4)).",
+        "You must be told in writing the specific skills required, the tasks, and how long the contract lasts (s.13(3)).",
+        "Your terms must be no less favourable than those of a permanent worker doing the same or similar work (s.13(5)).",
+        "A break of 28 days or less between two fixed-term contracts does not break your continuous employment (s.13(6)).",
+        "Your employer must tell you about any permanent vacancy in your category and grade (s.13(7))."
+      ],
+      "law": "Workers' Rights Act 2019, s.13 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "flexible-hours",
+      "category": "Working hours",
+      "title": "Flexitime and piece work",
+      "summary": "You can ask for flexitime, and your employer must answer in writing within 21 days.",
+      "points": [
+        "If you finish piece work or a task in less time, you are treated as having worked the full day or week, and are paid for it (s.21).",
+        "An employer may ask you to work flexitime, with at least 48 hours' notice (s.22(1)).",
+        "You may also ask to work flexitime (s.22(3)). Your employer must reply in writing within 21 days (s.22(4)).",
+        "The employer must grant a flexitime request unless there are reasonable business grounds to refuse, such as being unable to reorganise the work or a serious effect on quality or performance (s.22(5) and s.22(7)).",
+        "Where flexitime applies, the employer must set a core period when you must be at work, and a period in which the work must be done (s.22(6))."
+      ],
+      "law": "Workers' Rights Act 2019, ss.21-22 (2020 text)",
+      "status": "VERIFIED",
+      "note": "Section 22 includes the 2020 COVID-19 amendments."
+    },
+    {
+      "id": "shift-work",
+      "category": "Working hours",
+      "title": "Shift work and night work",
+      "summary": "Your employer cannot make you do very long shifts or long runs of night shifts without your consent.",
+      "points": [
+        "Your employer may ask you to do shift work (s.23(1)).",
+        "Without your consent, a shift cannot be more than 8 hours in a day (s.23(2)(a)), or night work on more than 5 consecutive nights (s.23(2)(b)). The night rule can be varied only for a sector or industry that has been prescribed.",
+        "A pregnant worker who produces a medical certificate cannot be made to do night shift work for at least 8 weeks before her confinement (s.23(3)).",
+        "The shift schedule is set monthly. A copy must be handed to you, and posted in a visible place at least one week before it takes effect (s.23(4) and s.23(5)).",
+        "Shift workers are entitled to an allowance of 15% of basic wage for night shift work, on top of the normal day's wage (s.23(6)). However, s.23(7), added by the 2020 COVID-19 amendment, suspends that allowance until a further period is prescribed."
+      ],
+      "law": "Workers' Rights Act 2019, s.23 (2020 text)",
+      "status": "VERIFIED",
+      "note": "Whether the s.23(7) suspension still applies needs checking against the current consolidated text."
+    },
+    {
+      "id": "overtime",
+      "category": "Overtime and holidays",
+      "title": "Overtime pay",
+      "summary": "Extra hours on a weekday are paid at one and a half times the normal rate.",
+      "points": [
+        "Work beyond your normal (stipulated) hours is overtime.",
+        "Weekday overtime: at least 1.5 times your normal rate for each extra hour.",
+        "Your employer must give at least 24 hours' notice of extra work, where this is practical.",
+        "Hourly rate for extra work: monthly pay divided by 208 for a 6-day week (26 days of 8 hours), or by 198 for a 5-day week (22 days of 9 hours) (s.25).",
+        "You may choose paid time off instead of overtime pay (time off in lieu)."
+      ],
+      "law": "Workers' Rights Act 2019, s.24(1)(b), s.24(4), s.24(4A)",
+      "status": "VERIFIED",
+      "note": "The 1.5-hours-off-per-hour multiplier comes from a 2024 secondary guide, not the official text."
+    },
+    {
+      "id": "public-holiday-work",
+      "category": "Overtime and holidays",
+      "title": "Working on a public holiday",
+      "summary": "A public holiday you work is paid at two or three times the normal rate.",
+      "points": [
+        "You are paid a normal day's pay for every public holiday that falls on a working day, except Sunday.",
+        "Work on a public holiday during normal hours: at least 2 times your rate.",
+        "Work on a public holiday after normal hours: at least 3 times your rate.",
+        "Any agreement to give up a paid public holiday is void.",
+        "Under the 2024 amendments you may take time off instead of pay for public holiday work."
+      ],
+      "law": "Workers' Rights Act 2019, s.24(3), s.30",
+      "status": "VERIFIED",
+      "note": "The time-off-instead-of-pay multiplier comes from a 2024 secondary guide."
+    },
+    {
+      "id": "public-holidays-2026",
+      "category": "Overtime and holidays",
+      "title": "Public holidays in 2026",
+      "summary": "The 2026 dates as listed by a payroll website. Check the official list.",
+      "points": [
+        "1 January: New Year's Day (Thursday)",
+        "2 January: New Year Holiday (Friday)",
+        "19 January: Thaipoosam Cavadee (Monday)",
+        "4 February: Abolition of Slavery (Wednesday)",
+        "17 February: Maha Shivaratree (Tuesday)",
+        "12 March: Independence and Republic Day (Thursday)",
+        "20 March: Ugadi (Friday)",
+        "3 April: Good Friday (Friday)",
+        "1 May: Labour Day (Friday)",
+        "20 July: Eid-ul-Fitr (Monday)",
+        "2 November: Arrival of Indentured Labourers (Monday)",
+        "2 November: Diwali (Monday). The source lists this on the same day as the line above. Confirm the date.",
+        "25 December: Christmas Day (Friday)"
+      ],
+      "law": "Public Holidays Act (set the official list; not read directly)",
+      "status": "SECONDARY",
+      "note": "The source table has 13 entries but its text says 15. The official list was not found."
+    },
+    {
+      "id": "public-holidays-count",
+      "category": "Overtime and holidays",
+      "title": "Total number of public holidays",
+      "summary": "How many public holidays a year is not confirmed.",
+      "points": [
+        "The Workers' Rights Act refers to the Public Holidays Act for the list.",
+        "A payroll site says 15 for 2026, but its table lists 13 days.",
+        "Whether the number is fixed or changes each year was not confirmed."
+      ],
+      "law": "Workers' Rights Act 2019, s.2 and s.30; Public Holidays Act (not read)",
+      "status": "UNVERIFIED",
+      "note": ""
+    },
+    {
+      "id": "annual-leave",
+      "category": "Leave",
+      "title": "Annual leave",
+      "summary": "After 12 months with the same employer you get 20 working days of annual leave, plus 2 days.",
+      "points": [
+        "After 12 consecutive months with the same employer: 20 working days of annual leave for each 12-month period.",
+        "You also get 2 days' leave in every year, in addition to the 20 days.",
+        "After 6 consecutive months, you build up one day of annual leave for each subsequent month, up to 12 months, if you attended every working day.",
+        "Part-time workers have pro rata leave (s.45(5)). Leave not taken within 12 months is paid out (s.45(8)).",
+        "The 30 days after 5 years is not in the 2020 text, which shows 20 working days plus 2. Some 2024 guides mention it. Confirm before relying on it."
+      ],
+      "law": "Workers' Rights Act 2019, s.45(1), s.45(2), s.45(4)",
+      "status": "VERIFIED",
+      "note": "The 30-day figure after 5 years is a conflict. Not confirmed."
+    },
+    {
+      "id": "annual-leave-booking",
+      "category": "Leave",
+      "title": "Booking annual leave",
+      "summary": "Under the 2024 amendments, leave is booked in blocks and requested well ahead.",
+      "points": [
+        "Each separately booked block must be at least 6 consecutive days.",
+        "Requests should be made at least 3 months ahead, except in special circumstances.",
+        "Your employer must approve unless there is an operational reason to refuse.",
+        "If a request is refused, you may agree another period, or your employer pays you in lieu."
+      ],
+      "law": "Finance (Miscellaneous Provisions) Act 2024 amendments to the Workers' Rights Act 2019",
+      "status": "SECONDARY",
+      "note": "The 2020 text (s.45(6)-(7)) says the employer and worker split the leave when they disagree, and more than one consecutive day needs 48 hours' written notice. The 3-month and 6-day rules come from 2024 guides and are not in the 2020 text."
+    },
+    {
+      "id": "sick-leave",
+      "category": "Leave",
+      "title": "Sick leave",
+      "summary": "After 12 months of service you get 15 working days of sick leave on full pay each year.",
+      "points": [
+        "After 12 consecutive months with the same employer: 15 working days of sick leave on full pay in each later 12-month period.",
+        "After 6 months, you build up one day of sick leave for each subsequent month, up to 12 months.",
+        "For an illness longer than 3 consecutive working days, a medical certificate is due on the fourth day of absence.",
+        "If you were in hospital, the certificate is due within 3 days of discharge.",
+        "A certificate cannot cover any period more than 3 days before the day it is issued."
+      ],
+      "law": "Workers' Rights Act 2019, s.46(1)(a), s.46(3), s.46(6), s.46(7)",
+      "status": "VERIFIED",
+      "note": "Up to 90 working days can build up if untaken (s.46(1)(b), 2020 text). Confirmed."
+    },
+    {
+      "id": "maternity-leave",
+      "category": "Leave",
+      "title": "Maternity leave",
+      "summary": "A woman gets 16 weeks of maternity leave on full pay.",
+      "points": [
+        "16 weeks of maternity leave on full pay, on production of a medical certificate.",
+        "At least 8 of the 16 weeks must be taken after the birth.",
+        "Mothers of twins, triplets or other multiple births, or of a premature baby, get 2 extra weeks.",
+        "The increase from 14 to 16 weeks came from the Finance Act 2024. Paid maternity leave changes took effect on 7 June 2024.",
+        "A pregnant worker may not be required to do night shift work for at least 8 weeks before her confinement, once a medical certificate of pregnancy is produced."
+      ],
+      "law": "Workers' Rights Act 2019, s.52(1), s.23(3). Finance Act 2024.",
+      "status": "VERIFIED",
+      "note": "16 weeks is in the 2025 official text (s.52(1)). The 2020 text says 14 weeks. The 8-weeks-after-birth rule and the 2 extra weeks come from 2024 secondary guides. Other protections: no work between 6 pm and 6 am for 12 months after birth without consent, and no termination during leave except for economic or structural reasons (s.52(10)-(11))."
+    },
+    {
+      "id": "paternity-leave",
+      "category": "Leave",
+      "title": "Paternity leave",
+      "summary": "A father gets 4 consecutive weeks of paid paternity leave, according to 2024 changes.",
+      "points": [
+        "Current figure: 4 consecutive weeks of paid paternity leave. The Finance Act 2024 changed it from 5 continuous working days. Took effect 7 June 2024.",
+        "Original 2019 text, s.53(1)(a): 5 continuous working days.",
+        "Original 2019 text, s.53(3): the leave must start within 2 weeks of the child's birth.",
+        "Whether the 2024 change kept the 2-week start rule was not confirmed."
+      ],
+      "law": "Workers' Rights Act 2019, s.53 (2019 text); Finance Act 2024",
+      "status": "SECONDARY",
+      "note": "The 4-week figure comes from 2024 secondary guides. The 2020 text (s.53) says 5 continuous working days, starting within 2 weeks of the birth. Without 12 months' service the leave is unpaid (s.53(4))."
+    },
+    {
+      "id": "special-leave",
+      "category": "Leave",
+      "title": "Special leave for family events",
+      "summary": "After 12 months with the same employer, you get paid special leave for your own marriage, a child's marriage, or the death of a close relative.",
+      "points": [
+        "After 12 consecutive months with the same employer: 6 working days of special leave on full pay for your first civil or religious marriage (s.48(a)).",
+        "3 working days of special leave on full pay for your son's or daughter's first civil or religious marriage (s.48(b)).",
+        "3 working days of special leave on full pay on the death of your spouse, child, father, mother, brother or sister (s.48(c))."
+      ],
+      "law": "Workers' Rights Act 2019, s.48 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "jury-sport-court-leave",
+      "category": "Leave",
+      "title": "Jury, sport and court leave",
+      "summary": "Jury service and international sport are paid leave. Court leave is paid only when you go to court for your employer.",
+      "points": [
+        "Jury service: you get paid leave while you are absent under a summons to serve as a juror under the Courts Act (s.49).",
+        "International sport: if you are selected to represent Mauritius in an international event, you get paid leave for the event, if you give notice and proof of the dates (s.50).",
+        "Court: you are entitled to leave to attend court as a party or as a witness (s.51(1)). Your employer may ask for a certificate of attendance (s.51(3)).",
+        "Court leave is paid when you attend as your employer's representative (s.51(2)). The Act does not say that leave for being a party or witness is paid."
+      ],
+      "law": "Workers' Rights Act 2019, ss.49-51 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "minimum-wage",
+      "category": "Pay",
+      "title": "National minimum wage",
+      "summary": "From 1 January 2026, the monthly minimum for a full-time worker is Rs 17,745.",
+      "points": [
+        "Rs 17,745 a month for a full-time worker, up from Rs 17,110. This took effect on 1 January 2026.",
+        "The revision was published in the Government Gazette on 17 January 2026.",
+        "The hourly minimum and the exact legal instrument were not confirmed."
+      ],
+      "law": "National Minimum Wage revision published in the Government Gazette, 17 January 2026",
+      "status": "SECONDARY",
+      "note": "Confirm the current figure with the Ministry."
+    },
+    {
+      "id": "pay-rules",
+      "category": "Pay",
+      "title": "How and when you must be paid",
+      "summary": "Wages are paid monthly with a payslip, and deductions are strictly limited.",
+      "points": [
+        "Pay is due at monthly intervals unless agreed otherwise, in legal tender, cheque or bank transfer, with a payslip (s.27(1)-(3)).",
+        "Pay that is due at the end of a notice period must be paid by the date the notice ends (s.31(3), 2019 text).",
+        "Deductions are limited: an advance may be recovered up to one fifth of basic wages, and total deductions cannot exceed half of pay for a pay period (s.34). No deduction for fines or for getting a job."
+      ],
+      "law": "Workers' Rights Act 2019, s.27, s.31(3), s.34 (2020 text)",
+      "status": "VERIFIED",
+      "note": "Late payment claims can earn interest of up to 12% a year (s.27(6))."
+    },
+    {
+      "id": "equal-pay",
+      "category": "Pay",
+      "title": "Equal pay for work of equal value",
+      "summary": "Your employer must pay the same for work of equal value, judged on objective criteria, not on your sex.",
+      "points": [
+        "Your pay must not be less favourable than that of another worker doing work of equal value (s.26(1)(a)).",
+        "A job contractor must ensure the same for its workers, compared with workers of the principal employer (s.26(1)(b)).",
+        "Pay rates must be based on an objective job evaluation of the work, not on your sex or personal attributes (s.26(2)(a)).",
+        "Job classification systems must use objective criteria, whatever the worker's sex (s.26(2)(b))."
+      ],
+      "law": "Workers' Rights Act 2019, s.26(1)-(2) (2020 text)",
+      "status": "VERIFIED",
+      "note": "Only the first criteria in s.26(2) were read. The rest of that subsection was not."
+    },
+    {
+      "id": "part-time-pay",
+      "category": "Pay",
+      "title": "Pay for part-time workers",
+      "summary": "A part-time worker must get at least the basic wage for their grade, pro rata, plus at least 5% more.",
+      "points": [
+        "A part-time worker must get at least the basic wage or salary set by law or a collective agreement for their grade, whichever is higher (s.28(1)).",
+        "That pay is worked out pro rata on the notional hourly rate, and then increased by at least 5% (s.28(1)).",
+        "If no basic wage is set by law or agreement, a part-time worker must get the basic wage of a comparable full-time worker, pro rata and increased by at least 5% (s.28(2)).",
+        "A full-time worker is a comparable worker if they work for the same employer at the same establishment and do the same or broadly similar work (s.14(1)(a))."
+      ],
+      "law": "Workers' Rights Act 2019, ss.14(1), 28 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "end-of-year-bonus",
+      "category": "Pay",
+      "title": "End-of-year bonus",
+      "summary": "If you are still employed on 31 December, you get a bonus of one twelfth of your earnings for that year.",
+      "points": [
+        "If you have worked for your employer for all or part of the year, and are still with them on 31 December, you get a bonus of one twelfth of your earnings for that year (s.54(1)(a)).",
+        "75% of the expected bonus must be paid at least 5 clear working days before 25 December (s.54(1)(b)(i)).",
+        "The balance must be paid no later than the last working day of the year (s.54(1)(b)(ii)).",
+        "Some sugar industry workers are excluded, because their conditions are set by separate regulations (s.54(2))."
+      ],
+      "law": "Workers' Rights Act 2019, s.54 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "meal-tea-breaks",
+      "category": "Working conditions",
+      "title": "Meal and tea breaks",
+      "summary": "A one-hour meal break is due no later than after 4 hours of work, and a tea break each working day.",
+      "points": [
+        "Unless otherwise agreed, you get a meal break of one hour no later than after 4 consecutive hours of work (s.56(1)(a)).",
+        "You also get one tea break of at least 20 minutes, or two tea breaks of at least 10 minutes each (s.56(1)(b)).",
+        "These breaks are unpaid (s.56(2))."
+      ],
+      "law": "Workers' Rights Act 2019, s.56 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "medical-tools",
+      "category": "Working conditions",
+      "title": "Medical arrangements and tools",
+      "summary": "Employers with 10 or more workers must arrange for health needs. Employers must also pay to get an injured worker home or to hospital, and provide the tools for the job.",
+      "points": [
+        "An employer with at least 10 workers must make appropriate arrangements for their medical and health needs (s.57(1)).",
+        "If you are injured or taken ill at work and need to be taken home or to a hospital, your employer must provide transport at its own expense, as soon as reasonable (s.57(2)(a)).",
+        "A person designated by the employer must go with you (s.57(2)(b)).",
+        "Your employer must provide the tools needed for your work (s.58(1)).",
+        "Unserviceable tools must be replaced as soon as they become unserviceable. The tools remain the employer's property (s.58(2))."
+      ],
+      "law": "Workers' Rights Act 2019, ss.57-58 (2020 text)",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "transport-communication",
+      "category": "Working conditions",
+      "title": "Transport and phones",
+      "summary": "If you live more than 3 km from work, your employer must give you free transport or pay your return bus fare. Security staff must get a mobile phone.",
+      "points": [
+        "If your home is more than 3 km from work, your employer must give you free transport to and from work, or pay the return bus fare (s.59(1)).",
+        "Whatever the distance, if you must start or finish work at a time when no public bus runs, you get free transport (s.59(2)).",
+        "If you travel to work by your own means, you get an allowance equal to the return bus fare, subject to the 3 km rule (s.59(3)(a)).",
+        "If your employer sends you from one work site to another, you get the return bus fare, or the amount you actually spent if no bus is available (s.59(3)(b)).",
+        "If you wait more than 30 minutes after work for free transport, you are paid at basic rate for the wait (s.59(4)).",
+        "No employer may transport a worker in a goods vehicle (s.59(5)).",
+        "A watchperson, security guard or security officer must be given a mobile phone for day and night duty, plus a monthly mobile allowance (s.60(1)). The phone stays the employer's property (s.60(2))."
+      ],
+      "law": "Workers' Rights Act 2019, ss.59-60 (2020 text)",
+      "status": "VERIFIED",
+      "note": "The amount of the monthly mobile allowance is in the Fourth Schedule, which was not read."
+    },
+    {
+      "id": "notice",
+      "category": "Dismissal and notice",
+      "title": "Notice to end employment",
+      "summary": "Either side must give at least 30 days' notice, or pay instead.",
+      "points": [
+        "Notice to end employment is given by the employer or the employee (s.63(1)).",
+        "Notice must be at least 30 days (s.63(4), 2019 text).",
+        "A contract may give longer notice, but never shorter than 30 days.",
+        "Either side may pay the other the remuneration the worker would have earned during the notice period, instead of giving notice (s.63(5))."
+      ],
+      "law": "Workers' Rights Act 2019, s.63(1) and s.63(4)",
+      "status": "VERIFIED",
+      "note": "Confirmed in the 2020 text. No notice tiers by length of service appear in s.63."
+    },
+    {
+      "id": "severance",
+      "category": "Dismissal and notice",
+      "title": "Severance allowance",
+      "summary": "If you are dismissed, you are owed 3 months' pay for each 12 months of service.",
+      "points": [
+        "Who is covered: at least 12 continuous months' employment, on an indeterminate contract that the employer ends (s.69(1)).",
+        "Formula: for every 12 months of continuous employment, 3 months' remuneration (s.70(1)).",
+        "For extra months under 12, a pro rata share of the 3 months' amount applies (s.70(1)(e)(ii)).",
+        "The Court may also order interest of up to 12% a year from termination (s.70(2)).",
+        "Pay used for the calculation is the higher of your last complete month's pay, or total pay over the last 12 months (including overtime, bonuses and commission).",
+        "Deductions allowed: gratuity, employer contributions to a fund or scheme, and Portable Retirement Gratuity Fund contributions (s.71).",
+        "Dismissal without following the statutory procedure is unlawful and leads to severance.",
+        "The Court can order severance only on the grounds in s.70(1)(a)-(e), such as an unjustified termination."
+      ],
+      "law": "Workers' Rights Act 2019, ss.69–70 (2019 text)",
+      "status": "VERIFIED",
+      "note": "Read from the 2019 Act text. Check whether the 2024 amendments changed it. The gratuity deduction and summary dismissal rules come from secondary guides. The Court decides the amount, so any calculation is an estimate."
+    },
+    {
+      "id": "dismissal-procedure",
+      "category": "Dismissal and notice",
+      "title": "Fair procedure before dismissal",
+      "summary": "The employer must notify you of the charge in time and give you a fair hearing before dismissing you.",
+      "points": [
+        "The employer must notify you of the charge within 10 days of learning about the misconduct (s.64(2)(a)(i)).",
+        "If the employer investigates first, the 10 days start only after the investigation ends (s.64(3)).",
+        "You must get at least 7 days' notice to answer any charge (s.64(2)(a)(iii)).",
+        "Termination must take effect no later than 7 days after you answer the charge. With an oral hearing, the 7 days run from the end of the hearing (s.64(2)(a)(v)).",
+        "A disciplinary hearing must be completed within 30 days of the first oral hearing (s.64(11)(a)).",
+        "The 30 days can be extended if the illness or death of a party or witness prevents completion, or if the parties agree (s.64(11)(b)).",
+        "You may have a trade union representative or legal representative at the hearing (s.64(7)).",
+        "Suspension pending a hearing is on full pay. A suspension without pay as a sanction cannot exceed 4 working days (s.66)."
+      ],
+      "law": "Workers' Rights Act 2019, s.64 (2019 text)",
+      "status": "VERIFIED",
+      "note": "Confirmed in the 2020 text (ss.64–66). The 2024 amendments were not checked."
+    },
+    {
+      "id": "complaint-time-limit",
+      "category": "Dismissal and notice",
+      "title": "Time limits to make a complaint",
+      "summary": "Discrimination and sexual harassment complaints must be lodged within 12 months. Deadlines for dismissal and wages are not confirmed.",
+      "points": [
+        "Discrimination or sexual harassment: lodge a written complaint with the Equal Opportunities Commission within 12 months of the act (EOA s.28(1)-(2)(a)).",
+        "The Commission may extend that 12 months for good cause shown by the complainant (s.28(2)(b)).",
+        "An appeal from a Tribunal order to the Supreme Court must be lodged within 21 days of the order (s.41(2)).",
+        "Workers' Rights Act: s.120 sets no deadline for a complaint to the supervising officer about any matter arising from employment (s.120(1)).",
+        "An employer may not prevent a worker from complaining (s.120(3)-(4)).",
+        "No deadline for dismissal or wage claims was found in the text read. Act quickly, and ask the Ministry of Labour or a lawyer for the current deadline."
+      ],
+      "law": "Equal Opportunities Act 2008, ss.28, 41 (uploaded copy); Workers' Rights Act 2019, s.120 (2020 text)",
+      "status": "UNVERIFIED",
+      "note": "Deadlines for dismissal and wage claims, and for court action, were not found in the text read."
+    },
+    {
+      "id": "business-transfer",
+      "category": "Ending a job",
+      "title": "When a business changes hands",
+      "summary": "If the business is taken over and you accept the new employer's offer on terms no worse than before, your service carries on.",
+      "points": [
+        "If the new employer offers terms no less favourable than your old ones, and you accept, your employment with the new employer counts as continuous (s.67(1)).",
+        "If you refuse such an offer, you cannot claim that your employment was terminated without justification (s.67(2)).",
+        "If the takeover brings a substantial change to your working conditions, you may claim that the new employer terminated your contract without justification (s.67(3)).",
+        "A dismissal connected with the takeover is treated as unjustified, unless it is for economic, technological or structural reasons (s.67(4)).",
+        "A business counts as taken over in cases such as a death of the employer (taken over by the heir), a dissolved partnership or company taken over, a sale of goodwill, a lease breach, a sale as an ongoing concern, or a merger (s.67(5))."
+      ],
+      "law": "Workers' Rights Act 2019, s.67 (2020 text)",
+      "status": "VERIFIED",
+      "note": "Section 67(6) lets the Minister exempt some service sectors by regulation. Not checked."
+    },
+    {
+      "id": "certificate-of-employment",
+      "category": "Ending a job",
+      "title": "Certificate of employment",
+      "summary": "When your job ends, or you resign, your employer must give you a certificate of employment within 7 days.",
+      "points": [
+        "Your employer must give you a certificate of employment within 7 days of the end of your employment, whether you were dismissed or resigned (s.68(1)).",
+        "It must bear the company seal where applicable, and follow the form in the Fifth Schedule (s.68(1)).",
+        "The employer must not add any details beyond those the Fifth Schedule allows (s.68(2))."
+      ],
+      "law": "Workers' Rights Act 2019, s.68 (2020 text)",
+      "status": "VERIFIED",
+      "note": "The Fifth Schedule form was not read."
+    },
+    {
+      "id": "retrenchment",
+      "category": "Ending a job",
+      "title": "Cutting jobs or closing down",
+      "summary": "Before reducing the workforce or closing down, your employer must first negotiate with your union or workers' representatives.",
+      "points": [
+        "An employer planning to reduce the number of workers, temporarily or permanently, or to close down, must notify and negotiate first (s.72(1)).",
+        "It must negotiate with the recognised trade union. If there is none, with a union that has representative status. If there is neither, with workers' representatives elected by the workers (s.72(1)(a)-(c)).",
+        "The aim is to explore ways of avoiding the cuts. These include limits on recruitment, retiring workers past retirement age, cutting overtime, shorter hours to cover temporary dips, and training for other work in the same business (s.72(1)(i)-(v))."
+      ],
+      "law": "Workers' Rights Act 2019, s.72(1) (2020 text)",
+      "status": "VERIFIED",
+      "note": "Sections 72A-75, which cover the Redundancy Board and payments, were not read yet. This topic does not cover payments."
+    },
+    {
+      "id": "gratuity-retirement",
+      "category": "Ending a job",
+      "title": "Gratuity on retirement",
+      "summary": "After 12 months with an employer, you are owed a gratuity when you retire in the cases listed in the Act.",
+      "points": [
+        "You are owed a gratuity if you have 12 months or more of continuous employment with the employer and you retire voluntarily at 60 or over (s.109(1)(a)).",
+        "Or you retire before 60 under another law or an agreement (s.109(1)(b)).",
+        "Or your employer asks you to retire on or after the retirement age (s.109(1)(c)).",
+        "Or you retire before 60 because of permanent incapacity, certified by a Government medical practitioner (s.109(1)(d)).",
+        "Or you retire because of incapacity arising from an injury sustained at work (s.109(1)(e)). The wording of this limb is cut off in the text read, so check it."
+      ],
+      "law": "Workers' Rights Act 2019, s.109(1) (2020 text)",
+      "status": "VERIFIED",
+      "note": "The formula in s.109(3) and the overlap rules in s.109(4)-(6) were not read. Do not give gratuity amounts until they are checked."
+    },
+    {
+      "id": "payments-on-death",
+      "category": "Ending a job",
+      "title": "Payments when a worker dies",
+      "summary": "After 12 months with the same employer, a death grant and a gratuity are payable when a worker dies.",
+      "points": [
+        "Death grant: if you have 12 consecutive months with the same employer and die, your employer pays a death grant. The amount is set in the Fourth Schedule (s.55(1)).",
+        "The death grant goes to your spouse, if they were living under the same roof with you when you died and they make a written statement to say so (s.55(1)(a)). If there is no such spouse, it goes to the person who shows they paid the funeral expenses (s.55(1)(b)).",
+        "A spouse means someone you married civilly or religiously and were living with under one roof when you died (s.55(2)).",
+        "Gratuity at death: if you had at least 12 months with the same employer and die, your employer pays a gratuity to your legal heirs. This applies even if they receive National Pension benefits or other entitlements (s.110(1)).",
+        "The death gratuity is worked out in the same way as the retirement gratuity (s.110(2))."
+      ],
+      "law": "Workers' Rights Act 2019, ss.55, 110 (2020 text)",
+      "status": "VERIFIED",
+      "note": "The death grant amount is in the Fourth Schedule, which was not read. The formula in s.109(3) was not read either."
+    },
+    {
+      "id": "osh",
+      "category": "Safety at work",
+      "title": "Employer's duty on safety",
+      "summary": "Your employer must keep you safe at work so far as reasonably practicable.",
+      "points": [
+        "Employers must protect the health and safety of staff and others at the workplace, so far as reasonably practicable.",
+        "Equipment and machinery must be kept safe.",
+        "Protective equipment, training, supervision and first aid must be provided where needed.",
+        "Employers with 50 or more employees must set up a safety and health committee that meets at least every 3 months.",
+        "Serious accidents and dangerous occurrences must be reported to the Ministry within 24 hours."
+      ],
+      "law": "Occupational Safety and Health Act 2005",
+      "status": "SECONDARY",
+      "note": "The Act is No. 28 of 2005 (published 29 October 2005, amended by Acts 8 of 2009 and 13 of 2013). Its full text could not be opened, so these points are from secondary guides."
+    },
+    {
+      "id": "refuse-danger",
+      "category": "Safety at work",
+      "title": "Refusing dangerous work",
+      "summary": "No general right to refuse dangerous work was found. Do not refuse on safety grounds without advice.",
+      "points": [
+        "The Workers' Rights Act text read does not give a general right to refuse dangerous work.",
+        "Employers may not give young persons hazardous work (s.9(1)(a)). This is an employer duty.",
+        "During a cyclone warning (class III or IV), a worker may stay away from work and must be paid for the absence (s.32(4)-(5), 2020 text).",
+        "The Act (No. 28 of 2005) could not be opened, so a right in that Act cannot be ruled out."
+      ],
+      "law": "Occupational Safety and Health Act 2005 (not read); Workers' Rights Act 2019, s.9 and s.32(4)",
+      "status": "UNVERIFIED",
+      "note": ""
+    },
+    {
+      "id": "harassment",
+      "category": "Harassment and discrimination",
+      "title": "Sexual harassment",
+      "summary": "Unwanted sexual advances or conduct at work are an offence. Report to your employer, then to the Equal Opportunities Commission within 12 months.",
+      "points": [
+        "Sexual harassment (EOA s.25(1)): an unwelcome sexual advance, an unwelcome request for a sexual favour, or other unwelcome conduct of a sexual nature, where a reasonable person would have foreseen that the other person would be humiliated, offended or intimidated.",
+        "Unwelcome sexual remarks, spoken or written, count as conduct (s.25(2)).",
+        "Your employer, or an agent of your employer, must not sexually harass you or a job applicant (s.26(1)). A fellow employee must not harass you either (s.26(3)).",
+        "Contract workers are protected from harassment by their job contractor or principal (s.26(2)).",
+        "The employer must enquire into a reported case within 15 days and take action to protect you (WRA s.114(4)).",
+        "Step 1: report to your supervisor, HR or the designated contact, and put a written complaint to your employer.",
+        "Step 2: complain in writing to the Equal Opportunities Commission within 12 months of the act. The Commission may extend this for good cause (s.28).",
+        "Step 3: the Commission tries conciliation first. If that fails, it can refer the complaint to the Equal Opportunities Tribunal (ss.32–33).",
+        "The Tribunal can order compensation of up to Rs 500,000 (s.35(1)(c)(ii)). Before it hears the case, you must sign a sworn waiver giving up your right to sue in court over the same facts (s.35(5)).",
+        "Step 4: general employment disputes go to the Employment Relations Commission. This comes from a secondary guide."
+      ],
+      "law": "Equal Opportunities Act 2008, ss.25–28, 32–35, 41 (uploaded copy); Workers' Rights Act 2019, s.114 (2020 text)",
+      "status": "VERIFIED",
+      "note": "Penalty: fine up to Rs 100,000 and up to 5 years' imprisonment (EOA s.25(11); WRA s.114(5)). Steps 1 and 4 are practical advice from secondary guides, not from the Acts."
+    },
+    {
+      "id": "discrimination",
+      "category": "Harassment and discrimination",
+      "title": "Discrimination at work",
+      "summary": "Discrimination at work is banned on grounds such as sex, race, religion and disability.",
+      "points": [
+        "No employer may discriminate in hiring, the terms of a job, promotion, training, dismissal, or conditions of work and safety (ss.10–11).",
+        "Direct discrimination (s.5) is treating you less favourably because of your status. Indirect discrimination (s.6) is a rule or practice that disadvantages your group and cannot be justified.",
+        "Victimisation (s.7) is punishing you for making a complaint, giving evidence, or making a good-faith allegation.",
+        "Protected grounds, called 'status' (s.2): age, caste, colour, creed (religion), ethnic origin, impairment, marital status, place of origin, political opinion, race, sex and sexual orientation. For hiring and promotion, a criminal record is also covered (ss.2, 10–11).",
+        "An application form must not ask for information that would not be asked of a person with a different status (s.43).",
+        "Complaints go to the Equal Opportunities Commission within 12 months (s.28)."
+      ],
+      "law": "Equal Opportunities Act 2008, ss.2, 5–7, 10–11, 28, 43 (uploaded copy)",
+      "status": "VERIFIED",
+      "note": "Amendments after 2017 were not checked."
+    },
+    {
+      "id": "child-work",
+      "category": "Young workers and children",
+      "title": "Children under 16",
+      "summary": "No one may employ a child under 16 in any job, with one small exception for helping a parent.",
+      "points": [
+        "A child is a person under 16 (s.2).",
+        "No person may employ a child for employment or work in any occupation (s.8(1)).",
+        "A limited exception allows light work that helps a parent outside school hours (s.8(2)). The conditions were not read in full."
+      ],
+      "law": "Workers' Rights Act 2019, s.2, s.8",
+      "status": "VERIFIED",
+      "note": "The conditions of the s.8(2) exception are not confirmed."
+    },
+    {
+      "id": "young-workers",
+      "category": "Young workers and children",
+      "title": "Young persons aged 16 and 17",
+      "summary": "A young person is under 18. Hazardous work and night work are restricted.",
+      "points": [
+        "A young person is anyone under 18 who is not a child (s.2).",
+        "A person aged 16 or more can enter a work agreement (s.10).",
+        "A young person may not be given work likely to harm their health or safety (s.9(1)(a)).",
+        "After written notice from the supervising officer, a young person may not be given that work at all (s.9(1)(b)).",
+        "Employers must keep records for young persons (s.9(2)).",
+        "No young person may be employed between 10 pm and 5 am (s.20(6)).",
+        "The general 12-hour daily limit (s.20(3)) and 11 hours' daily rest (s.20(7)) apply. No separate young-person hour limit was found."
+      ],
+      "law": "Workers' Rights Act 2019, s.2, s.9, s.10, s.20",
+      "status": "VERIFIED",
+      "note": ""
+    },
+    {
+      "id": "disconnect",
+      "category": "Right to disconnect",
+      "title": "Right to disconnect",
+      "summary": "You may stop work messages during unsocial hours. If you must work then, you get extra pay.",
+      "points": [
+        "Unsocial hours: from 1 pm Saturday to 6 am Monday, and from 10 pm on weekdays to 6 am the next day.",
+        "During these hours you may stop responding to work communications.",
+        "If you must work in those hours, you get a disturbance allowance equal to your hourly wage for each hour.",
+        "Exceptions include emergencies and jobs whose hours follow a foreign market."
+      ],
+      "law": "Finance (Miscellaneous Provisions) Act 2024 amendments",
+      "status": "SECONDARY",
+      "note": "How this is enforced and what penalties apply are not confirmed."
+    }
+  ]
+}
