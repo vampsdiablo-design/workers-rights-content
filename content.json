@@ -1,6 +1,6 @@
 {
   "version": 20261028,
-  "checked": "Last checked 27 October 2026. Sources: the Workers' Rights Act 2019 as at 7 September 2020 (uploaded copy, read page by page); the Equal Opportunities Act 2008 (uploaded copy, amended to 2017); the online consolidated copy as at 9 August 2025 (for the 16-week maternity leave); the 2019 original text; the ILO database entry for the Occupational Safety and Health Act 2005; and secondary guides on the Finance Act 2024.",
+  "checked": "Last checked 28 October 2026. Sources: the Workers' Rights Act 2019 as at 7 September 2020 (uploaded copy); the Equal Opportunities Act 2008 (uploaded copy, amended to 2017); the online consolidated copy as at 9 August 2025 (for the 16-week maternity leave); the 2019 original text; the ILO database entry for the Occupational Safety and Health Act 2005; 2024 summaries from Mondaq, Lockton and DLA Piper; 2022 guides on the Portable Retirement Gratuity Fund; and WageIndicator for the minimum wage. The official 2024 Act texts could not be opened, so 2024 changes stay SECONDARY.",
   "topics": [
     {
       "id": "hours-normal",
@@ -80,7 +80,7 @@
       ],
       "law": "Workers' Rights Act 2019, s.23 (2020 text)",
       "status": "VERIFIED",
-      "note": "Whether the s.23(7) suspension still applies needs checking against the current consolidated text."
+      "note": "The s.23(7) suspension is as stated in the 2020 text. No 2024 or later source was found that confirms whether it still applies. Check the current consolidated text."
     },
     {
       "id": "overtime",
@@ -92,11 +92,12 @@
         "Weekday overtime: at least 1.5 times your normal rate for each extra hour.",
         "Your employer must give at least 24 hours' notice of extra work, where this is practical.",
         "Hourly rate for extra work: monthly pay divided by 208 for a 6-day week (26 days of 8 hours), or by 198 for a 5-day week (22 days of 9 hours) (s.25).",
-        "You may choose paid time off instead of overtime pay (time off in lieu)."
+        "You may choose paid time off instead of overtime pay (time off in lieu).",
+        "Time off in lieu, per one 2024 guide: 1.5 hours off for each weekday overtime hour."
       ],
       "law": "Workers' Rights Act 2019, s.24(1)(b), s.24(4), s.24(4A)",
       "status": "VERIFIED",
-      "note": "The 1.5-hours-off-per-hour multiplier comes from a 2024 secondary guide, not the official text."
+      "note": "The 1.5 times cash rate is in the 2020 text (s.24(1)(b)). The 1.5 hours off for each hour is from one 2024 guide (Mondaq), not the official text. No conflicting source was found."
     },
     {
       "id": "public-holiday-work",
@@ -108,11 +109,11 @@
         "Work on a public holiday during normal hours: at least 2 times your rate.",
         "Work on a public holiday after normal hours: at least 3 times your rate.",
         "Any agreement to give up a paid public holiday is void.",
-        "Under the 2024 amendments you may take time off instead of pay for public holiday work."
+        "Time off instead of pay, per one 2024 guide: 2 hours off for each hour worked in normal hours on a public holiday, and 3 hours off for each hour outside normal hours."
       ],
       "law": "Workers' Rights Act 2019, s.24(3), s.30",
       "status": "VERIFIED",
-      "note": "The time-off-instead-of-pay multiplier comes from a 2024 secondary guide."
+      "note": "The pay multipliers are in the 2020 text (s.24(3), s.30). The time-off multipliers are from one 2024 guide (Mondaq), not the official text. No conflicting source was found."
     },
     {
       "id": "public-holidays-2026",
@@ -162,11 +163,11 @@
         "You also get 2 days' leave in every year, in addition to the 20 days.",
         "After 6 consecutive months, you build up one day of annual leave for each subsequent month, up to 12 months, if you attended every working day.",
         "Part-time workers have pro rata leave (s.45(5)). Leave not taken within 12 months is paid out (s.45(8)).",
-        "The 30 days after 5 years is not in the 2020 text, which shows 20 working days plus 2. Some 2024 guides mention it. Confirm before relying on it."
+        "Two 2024 summaries (Lockton and DLA Piper) say vacation leave is up to 30 days for every 5 consecutive years with the same employer, for workers earning up to MUR 600,000 a year. The official text could not be read, so this is not confirmed."
       ],
       "law": "Workers' Rights Act 2019, s.45(1), s.45(2), s.45(4)",
       "status": "VERIFIED",
-      "note": "The 30-day figure after 5 years is a conflict. Not confirmed."
+      "note": "CONFLICT: the 2020 text shows 20 working days plus 2 after 12 months. The 30 days for every 5 years is not confirmed. Check the Act before showing it as a rule."
     },
     {
       "id": "annual-leave-booking",
@@ -181,7 +182,7 @@
       ],
       "law": "Finance (Miscellaneous Provisions) Act 2024 amendments to the Workers' Rights Act 2019",
       "status": "SECONDARY",
-      "note": "The 2020 text (s.45(6)-(7)) says the employer and worker split the leave when they disagree, and more than one consecutive day needs 48 hours' written notice. The 3-month and 6-day rules come from 2024 guides and are not in the 2020 text."
+      "note": "The 2020 text (s.45(6)-(7)) says the employer and worker split the leave when they disagree, and more than one consecutive day needs 48 hours' written notice. The 6-day block and 3-month notice rules come from two 2024 summaries (Lockton and DLA Piper, which agree). They are not in the 2020 text and were not checked against the official text."
     },
     {
       "id": "sick-leave",
@@ -228,7 +229,7 @@
       ],
       "law": "Workers' Rights Act 2019, s.53 (2019 text); Finance Act 2024",
       "status": "SECONDARY",
-      "note": "The 4-week figure comes from 2024 secondary guides. The 2020 text (s.53) says 5 continuous working days, starting within 2 weeks of the birth. Without 12 months' service the leave is unpaid (s.53(4))."
+      "note": "The 4-week figure and the 7 June 2024 date come from two 2024 summaries (Mondaq and Lockton). The 2020 text (s.53) says 5 continuous working days, starting within 2 weeks of the birth. Without 12 months' service the leave is unpaid (s.53(4)). Whether the 2-week start rule still applies was not confirmed."
     },
     {
       "id": "special-leave",
@@ -265,13 +266,13 @@
       "title": "National minimum wage",
       "summary": "From 1 January 2026, the monthly minimum for a full-time worker is Rs 17,745.",
       "points": [
-        "Rs 17,745 a month for a full-time worker, up from Rs 17,110. This took effect on 1 January 2026.",
-        "The revision was published in the Government Gazette on 17 January 2026.",
-        "The hourly minimum and the exact legal instrument were not confirmed."
+        "Rs 17,745 a month for a full-time worker, up from Rs 17,110 (an increase of Rs 635).",
+        "It took effect on 1 January 2026, and was published in the Government Gazette on 17 January 2026 (WageIndicator).",
+        "The hourly minimum was not found in the sources read."
       ],
       "law": "National Minimum Wage revision published in the Government Gazette, 17 January 2026",
       "status": "SECONDARY",
-      "note": "Confirm the current figure with the Ministry."
+      "note": "One secondary source (WageIndicator). Confirm with the Ministry before relying on it."
     },
     {
       "id": "pay-rules",
@@ -378,7 +379,7 @@
       ],
       "law": "Workers' Rights Act 2019, ss.59-60 (2020 text)",
       "status": "VERIFIED",
-      "note": "The amount of the monthly mobile allowance is in the Fourth Schedule, which was not read."
+      "note": "The amount of the monthly mobile allowance is in the Fourth Schedule, which was not read. No source found gave it."
     },
     {
       "id": "notice",
@@ -444,11 +445,11 @@
         "An appeal from a Tribunal order to the Supreme Court must be lodged within 21 days of the order (s.41(2)).",
         "Workers' Rights Act: s.120 sets no deadline for a complaint to the supervising officer about any matter arising from employment (s.120(1)).",
         "An employer may not prevent a worker from complaining (s.120(3)-(4)).",
-        "No deadline for dismissal or wage claims was found in the text read. Act quickly, and ask the Ministry of Labour or a lawyer for the current deadline."
+        "No deadline for dismissal or wage claims was found in the 2020 Act text or in a 2024 article on time limits (Mondaq). Act quickly, and ask the Ministry of Labour or a lawyer for the current deadline."
       ],
       "law": "Equal Opportunities Act 2008, ss.28, 41 (uploaded copy); Workers' Rights Act 2019, s.120 (2020 text)",
       "status": "UNVERIFIED",
-      "note": "Deadlines for dismissal and wage claims, and for court action, were not found in the text read."
+      "note": "Deadlines for dismissal and wage claims, and for court action, are still not found. Still unverified."
     },
     {
       "id": "business-transfer",
@@ -492,7 +493,7 @@
       ],
       "law": "Workers' Rights Act 2019, s.72(1) (2020 text)",
       "status": "VERIFIED",
-      "note": "Sections 72A-75, which cover the Redundancy Board and payments, were not read yet. This topic does not cover payments."
+      "note": "Sections 72A-75, which cover the Redundancy Board and payments, were not read. No source found covered them either. This topic does not cover payments."
     },
     {
       "id": "gratuity-retirement",
@@ -504,11 +505,12 @@
         "Or you retire before 60 under another law or an agreement (s.109(1)(b)).",
         "Or your employer asks you to retire on or after the retirement age (s.109(1)(c)).",
         "Or you retire before 60 because of permanent incapacity, certified by a Government medical practitioner (s.109(1)(d)).",
-        "Or you retire because of incapacity arising from an injury sustained at work (s.109(1)(e)). The wording of this limb is cut off in the text read, so check it."
+        "Or you retire because of incapacity arising from an injury sustained at work (s.109(1)(e)). The wording of this limb is cut off in the text read, so check it.",
+        "Portable Retirement Gratuity Fund (PRGF): employers pay 4.5% of monthly pay into the fund from January 2022, per two 2022 guides. Some smaller employers pay reduced rates for 2022 to 2024. Employees whose basic wage is over MUR 200,000 a month are excluded."
       ],
       "law": "Workers' Rights Act 2019, s.109(1) (2020 text)",
       "status": "VERIFIED",
-      "note": "The formula in s.109(3) and the overlap rules in s.109(4)-(6) were not read. Do not give gratuity amounts until they are checked."
+      "note": "The formula in s.109(3) and the overlap rules in s.109(4)-(6) were not read. Do not give gratuity amounts until they are checked. PRGF rates are from 2022 guides. Check the current rates with the Ministry."
     },
     {
       "id": "payments-on-death",
@@ -524,7 +526,7 @@
       ],
       "law": "Workers' Rights Act 2019, ss.55, 110 (2020 text)",
       "status": "VERIFIED",
-      "note": "The death grant amount is in the Fourth Schedule, which was not read. The formula in s.109(3) was not read either."
+      "note": "The death grant amount is in the Fourth Schedule, which was not read, and no source found gave the amount. The formula in s.109(3) was not read either."
     },
     {
       "id": "osh",
@@ -635,12 +637,12 @@
       "points": [
         "Unsocial hours: from 1 pm Saturday to 6 am Monday, and from 10 pm on weekdays to 6 am the next day.",
         "During these hours you may stop responding to work communications.",
-        "If you must work in those hours, you get a disturbance allowance equal to your hourly wage for each hour.",
-        "Exceptions include emergencies and jobs whose hours follow a foreign market."
+        "If you must work in those hours, you get a disturbance allowance equal to your hourly wage for each hour worked.",
+        "Exceptions: emergencies, and jobs whose hours match the working hours of the market the employer serves. One 2024 summary says the allowance applies in these same cases."
       ],
       "law": "Finance (Miscellaneous Provisions) Act 2024 amendments",
       "status": "SECONDARY",
-      "note": "How this is enforced and what penalties apply are not confirmed."
+      "note": "Hours and allowance come from one 2024 summary (Lockton). Took effect 27 July 2024. Penalties and enforcement are not stated. Check the Act wording before relying on it."
     }
   ]
 }
